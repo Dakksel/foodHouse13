@@ -2,12 +2,12 @@
    НАСТРОЙКИ FIREBASE — Food House (филиал 2)
    ===================================================== */
 const firebaseConfig = {
-  apiKey:            "AIzaSyBUIiKq03bNK2tHXlUCPNughGHyAmRo3ME",
-  authDomain:         "foodhouse13.firebaseapp.com",
-  projectId:          "foodhouse13",
-  storageBucket:      "foodhouse13.firebasestorage.app",
-  messagingSenderId:  "855198753261",
-  appId:              "1:855198753261:web:6e01bd9e1188b11b4647e4",
+  apiKey:            "AIzaSyBm-KNYN3En6ND-GicHzrXXPPrn5tpJKJE",
+  authDomain:         "foodhouse-13.firebaseapp.com",
+  projectId:          "foodhouse-13",
+  storageBucket:      "foodhouse-13.firebasestorage.app",
+  messagingSenderId:  "304157470387",
+  appId:              "1:304157470387:web:9225139ea42b2881468ac6",
 };
 
 firebase.initializeApp(firebaseConfig);
